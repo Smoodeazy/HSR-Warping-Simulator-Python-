@@ -1,1 +1,1 @@
-Honkai Star Rail Warping Simulator
+#Honkai Star Rail Warping Simulator
