@@ -1,1 +1,1 @@
-# HSR-Warping-Simulator-Python-
+Honkai Star Rail Warping Simulator
